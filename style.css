@@ -1,0 +1,58 @@
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+* {font-family: 'Roboto', sans-serif;}
+body {
+    font-family: 'Roboto' ;
+}
+.header-link {
+    font-weight: 500;
+    line-height: auto;
+    text-decoration: none;
+}
+.title {
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 160%;
+}
+.button {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 130%;
+}
+.table-head {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: auto;
+}
+.table-body {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 124%;
+}
+.section-title {
+    font-weight: 700;
+    font-size: 36;
+    line-height: auto;
+}
+.we-who-are-name {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: auto;
+}
+.we-who-are-profesion {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: auto;
+}
+.footer-details {
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    background-color: black; padding: 30px;
+    line-height: 130%;
+    
+}
+
