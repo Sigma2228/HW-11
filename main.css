@@ -9,7 +9,9 @@ box-sizing: border-box;
     padding: 15px 10px 20px 10px;
     margin-bottom: 30px;
     border: solid 2px red;
+    border-style: dashed;
     background-color: green;
+    
      white-space: pre-wrap;
      overflow: hidden;
      font-family: 'Roboto', sans-serif;
